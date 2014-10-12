@@ -1,0 +1,18 @@
+Have:
+ArduPilot Mega (Everyone)
+GPS Module (Eric)
+XBee (Eric, Bobo)
+Motor (Ning, Shark)
+Frame (Shark)
+Video Rx/Tx (N/A)
+ArduPilot Shield v2 (Bobo)
+Servos (at least 2) (Shark)
+
+Need:
+Magneometer (Bobo)
+Airspeed Sensor (Bobo)
+ESC (Ning, Shark)
+Battery (Shark)
+RC Rx/Tx (Ning, Shark)
+
+Rx/Tx = Reciever/Transmitter
